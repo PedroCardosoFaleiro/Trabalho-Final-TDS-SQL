@@ -1,0 +1,16 @@
+id_monstro;nome_monstro;vida;dano
+1;Lobo;148;54
+2;Zumbi;243;32
+3;Esqueleto;143;43
+4;Ancião;271;87
+5;Corrompido;286;121
+6;Lobisomen;296;150
+7;Crocodilo;371;49
+8;Golem;195;150
+9;Goblin;169;18
+10;Ciclope;354;143
+11;Troll;370;167
+12;Arpia;162;100
+13;Slime;100;50
+14;Gorgona;284;83
+15;Salamandra;300;69

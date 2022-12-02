@@ -1,0 +1,11 @@
+id_dungeon;nome_dungeon;localizacao;id_boss;id_monstro
+1;Além do musgo;Pantano;1;2
+2;Alexandria;Caverna;3;4
+3;Jhavelim;Floresta;4;5
+4;Areias de sangue;Deserto;5;1
+5;Fúria de savatom;Ruinas;2;14
+6;Dungrand;Ruinas;7;10
+7;Fonte da vida;Oceano;6;7
+8;Hallio Hips;Floresta;9;15
+9;Fúria da Amazonia;Floresta;8;13
+10;Globintz;Caverna;3;9
